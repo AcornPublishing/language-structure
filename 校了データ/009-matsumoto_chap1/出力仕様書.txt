@@ -1,0 +1,99 @@
+ADOBE INDESIGN サービスビューローレポート印刷の指示
+
+ドキュメント名 : 009-matsumoto_chap1.indd
+
+日付 : 16.12.8 1:59 PM
+作成日 : 16.12.6
+修正日 : 16.12.6
+
+連絡先の情報
+
+会社名 : 
+連絡先 : 
+所在地 : 
+
+
+
+
+
+電話 : 
+Fax : 
+電子メール : 
+
+特記事項とその他の注意事項
+
+
+
+
+
+
+外部プラグイン 1
+
+Medoc.InDesignPlugin
+
+
+透明オブジェクト : なし
+
+フォント
+11 使用フォント; 0 無効, 0 埋め込み, 0 不完全, 0 保護
+
+フォントはパッケージされていません
+- 名前 : ATC-*BBB-OCRB; 形式 : ATC, ステータス : OK
+合成フォントの構成 : A-OTF 中ゴシックBBB Pr6N Med,A-OTF 中ゴシックBBB Pr6N Med,A-OTF 中ゴシックBBB Pr6N Med,A-OTF 中ゴシックBBB Pr6N Med,Letter Gothic Std Bold,Letter Gothic Std Bold,Letter Gothic Std Bold
+- 名前 : ATC-*hyou; 形式 : ATC, ステータス : OK
+合成フォントの構成 : A-OTF 太ゴB101 Pr6N Bold,A-OTF 太ゴB101 Pr6N Bold,A-OTF 太ゴB101 Pr6N Bold,A-OTF 太ゴB101 Pr6N Bold,A-OTF 太ゴB101 Pr6N Bold,A-OTF 太ゴB101 Pr6N Bold,A-OTF 太ゴB101 Pr6N Bold
+- 名前 : FutoGoB101Pr6N-Bold; 形式 : OpenType CID, ステータス : OK
+- 名前 : GothicBBBPr6N-Medium; 形式 : OpenType CID, ステータス : OK
+- 名前 : KozGoPr6N-ExtraLight; 形式 : OpenType CID, ステータス : OK
+- 名前 : KozGoPr6N-Regular; 形式 : OpenType CID, ステータス : OK
+- 名前 : MidashiGoPr6N-MB31; 形式 : OpenType CID, ステータス : OK
+- 名前 : Osaka-Mono; 形式 : TrueType, ステータス : OK
+- 名前 : TsukuMinPr6N-D; 形式 : OpenType CID, ステータス : OK
+- 名前 : TsukuMinPr6N-R; 形式 : OpenType CID, ステータス : OK
+フォントはパッケージされています
+- 名前 : LetterGothicStd-Bold; 形式 : OpenType Type 1, ステータス : OK
+
+
+カラーとインキ
+1 プロセスインキ; 0 特色インキ
+
+- 名前と形式 : プロセスブラック; 角度 : 45.000; 線数 / インチ :70.000
+
+
+リンクと画像
+(無効、または埋め込まれたリンクのみ)
+リンクと画像 : 1 リンク; 0 未更新, 0 無効 0 アクセス不可
+画像 : 0 埋め込み, 0 RGB カラースペースを使用
+
+
+プリント設定
+PPD : FX DocuColor 1257 PSS70 PS J2 v3018.101, (1257GA)
+出力 : プリンター
+コピー部数 : 1
+見開き印刷 : いいえ
+偶数 / 奇数ページ : 両方
+ページ : すべて
+校正 : いいえ
+タイル : なし
+スケール : 100%, 100%
+ページ位置 : 中央揃え
+プリントするレイヤー : 表示中でプリント可能なレイヤー
+印刷マーク : トンボ, 裁ち落とし, レジストレーション
+裁ち落とし : 0 mm, 0 mm, 0 mm, 0 mm
+カラー : コンポジット CMYK
+トラップモード : なし
+解像度 : サブサンプリングを最適化する
+OPI / DCS 画像置換 : いいえ
+ページサイズ : カスタム : 182 mm x 235 mm
+用紙サイズ : 210.256 mm x 297.039 mm
+方向 : 縦置き
+ネガ : いいえ
+ネガ : オフ
+
+
+ファイルパッケージリスト
+
+1. 009-matsumoto_chap1.indd; 形式 : Adobe InDesign ドキュメント; サイズ : 7476K
+2. KozGoPr6N-ExtraLight.otf; 形式 : フォントファイル; サイズ : 4918K
+3. KozGoPr6N-Regular.otf; 形式 : フォントファイル; サイズ : 5296K
+4. LetterGothicStd-Bold.otf; 形式 : フォントファイル; サイズ : 34K

@@ -1,0 +1,49 @@
+%!Adobe-FontList 1.13
+%Locale:0x411
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-ExtraLight
+FamilyName:Kozuka Gothic Pr6N
+StyleName:EL
+MenuName:小塚ゴシック Pr6N EL
+StyleBits:0
+WeightClass:250
+WidthClass:5
+AngleClass:0
+FullName:Kozuka Gothic Pr6N EL
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:EL
+FullNameNative:小塚ゴシック Pr6N EL
+WritingScript:Japanese
+OutlineFileName:\KozGoPr6N-ExtraLight.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:5036948
+FileModTime:1425038083
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-Regular
+FamilyName:Kozuka Gothic Pr6N
+StyleName:R
+MenuName:小塚ゴシック Pr6N R
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Kozuka Gothic Pr6N R
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:R
+FullNameNative:小塚ゴシック Pr6N R
+WritingScript:Japanese
+OutlineFileName:\KozGoPr6N-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:5423644
+FileModTime:1425038084
+%EndFont
+
